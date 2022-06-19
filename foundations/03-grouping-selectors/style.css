@@ -1,0 +1,15 @@
+.prompt1{
+    background-color: black;
+    color: white;
+
+}
+
+.prompt2{
+    background-color: yellow;
+}
+.prompt1,
+.prompt2
+{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 50px;
+}
